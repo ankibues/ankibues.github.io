@@ -13,13 +13,12 @@ pygmentscodefencesguesssyntax = true
 [params]
   author = "Ankit Bhandari"
   description = "Quality Assurance Engineer and Compliance Project Manager"
-  keywords = "blog,developer,science,writer, art"
-  info = "Software Quality Assurance/ Software Compliance and Project Management/ Scientific Computing/ Technical and Creative Writing"
+  keywords = "blog,software,science,writer, art"
+  info = "Software Development and Quality Assurance/ Compliance Project Management/ Scientific Computing/ Technical and Creative Writing"
   avatarurl = "images/photo.jpeg"
   favicon_32 = "images/bhandlab.png"
   favicon_16 = "images/bhandlab.png"
-  footerContent = "The only comfort in being uncomfortable is that you know you are learning."
-  
+  footerContent = "I don't know anything, but I do know that everything is interesting if you go into it deeply enough- Richard Feynman"
   dateFormat ="January 2, 2006"
   hideFooter = false
   hideCredits = false
@@ -27,7 +26,7 @@ pygmentscodefencesguesssyntax = true
 
   rtl = false
   enableTwemoji = true
-  colorScheme = "dark"
+  colorScheme = "auto"
   hidecolorschemetoggle = false
   maxSeeAlsoItems = 5
   customCSS = []

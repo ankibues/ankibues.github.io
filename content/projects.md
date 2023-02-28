@@ -4,32 +4,42 @@ date: 2020-12-28T11:24:32+05:30
 draft: false
 description: Past and current projects.
 ---
+## Scientific Computing
 
-### Pressure variation in heterogeneous rocks 
-
-I am currently working on understanding the effect of low velocity zones surrounding an active fault on long term fault slip. Such a setting is common in mature faults like San Andreas, California, and Northern Anatolian, Turkey.  We use mechanical models with prescribed stresses and friction to solve the elastodynamic equation of motion. The earthquake rupture sequences in the cycle happen spontaneously as a result of self-organized stresses, and is not defined by the user. Our models can capture all the stages of the seismic cycle including earthquake nucleation, dynamic rupture propagation, and postseismic and interseismic deformation. My research involves studying how these low velocity fault damage zones affect the earthquake sequences over long term and how these fault damage zones evolve through these different stages of the seismic cycle. I am also involved in developing a Julia code for these simulations to solve the equations efficiently and get increased performance. Code: [https://github.com/thehalfspace/Spear](https://github.com/thehalfspace/Spear).
+### Simulating pressure variation in Earth's heterogeneous rocks 
 
 
-![](/media/fault_zone.png)
-
-We (not so) recently (anymore) published a [paper](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020JB019587) discussing the effects of the geometry of a low-velocity layer on the depth distribution of seismicity and the general complexity of earthquakes.
 
 ![](/media/damage_evolution.png)
 
-I have worked on understanding how the structural maturity of strike-slip fault damage zones can influence the fault-slip behavior, the earthquake recurrence and the stressing history. This is done using a purely elastic framework and approximating the fault damage zone as a parallel layer while changing it's strength through multiple earthquakes. Refer to our recently published [paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GL094679) for details.
-
-### How flow partitioning affects the quartz crystal fabrics
-
-I collaborated with my collegues at University of Michigan to work on the 2019 Ridgecrest earthquake sequence in Southern California, which was the largest earthquake sequence in the region in a very long time. We looked at the static and dynamic stress changes from the earthquake on the nearby Garlock fault, and discussed some theoretial limits on the feasiblity of large earthquake on the Garlock fault. Check out my [collegue's website](https://sites.google.com/view/seismomcfishin/2019-ridgecrest-earthquake?authuser=0) for a detailed description and some cool figures.
 
 
-### Simulating Flanking Structures in Rocks
+### Simulating quartz crystal fabrics 
 
-Earthquakes can tell us a lot about the tectonics of a region. Using global moment tensor data for earthquakes, we can obtain the earthquake focal mechanisms and therefore the net slip direction along various fault planes. Similar to what is described below, we can invert slip directions from multiple faults to get the regional stress state. In our Sumatra-Andaman subduction zone setting, we studied the variation in the stresses of the different parts of subducting and overriding
-slabs. Some [codes and results](https://github.com/thehalfspace/GMT_Plots).
+
+
+
+
+### Simulating flanking structures in rocks
+
+
+
+## Working at YuJa
+
+### Compliance Project Management
+Over the past one and a half year, I have worked on many compliance projects at YuJa. Compliance simply means making sure that the software and software development practices are in accordance to relevant industry standards, such as accessibility, security, interoperability, etc. For this purpose, I have facilitated audits like:
+
+* [SOC-2 and SOC-3](https://www.aicpa.org/resources/landing/soc-2-and-soc-3)
+* [HIPAA](https://www.hhs.gov/hipaa/for-professionals/index.html)
+* 1EdTech (Formerly known as IMS Global) [LTI Advantage](http://www.imsglobal.org/lti-advantage-overview) and [Caliper Analytics](http://www.imsglobal.org/activity/caliper)
+
+And maintained documentations such as:
+* [HECVAT](https://library.educause.edu/resources/2020/4/higher-education-community-vendor-assessment-toolkit) for assessing security risks in cloud services 
+* [VPAT](https://www.itic.org/policy/accessibility/vpat) for accessibility reports
+
 
 ### Automation Testing Using Selenium Framework
-
-![](/media/stress_inversion.png)
-
-Structural geologists often aim to quantify regional paleo-stresses based on field observations, usually in the form of slip lineations on a fault. The orientation of these lineations is generally coherent with the direction of maximum shear stress acting on that fault plane. Using multiple observations, we can invert for the stresses. This inversion is highly nonlinear, and requires sophisticated techniques to get a best estimate. To make matters worse, the field observations contain data from multiple stress states that acted in different times in the geological past. We developed an [efficient numerical inversion technique](https://github.com/thehalfspace/stress-inversion) using genetic algorithms to cluster and invert for the multiple stress states without apriori knowledge about the number of stress states. Check out our papers ([paper a](https://www.sciencedirect.com/science/article/pii/S0191814116302036) and [paper b](https://www.sciencedirect.com/science/article/pii/S0191814119304705)) for further details.
+Over the past one and a half year, I have been working as a Quality Assurance Engineer at YuJa. With manual testing of software and hardware application already in practice, last year we decided to switch to automation to meet the growing needs of testing at YuJa. We have been developing automated test cases for [YuJa EVP](https://www.yuja.com/show/), which is a web-based platform that enables educational institutions to store, manage, distribute and stream media content. 
+\
+\
+We use [Selenium](https://www.selenium.dev/) based [TestNg](https://testng.org/doc/) framework in Java for automating the test scenarios such as uploading video/audio files, perrform certain types of actions on media files, creating different types of users, etc. 
