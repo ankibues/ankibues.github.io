@@ -5,7 +5,6 @@ slug: ""
 description: ""
 keywords: [scientific,emotions,writing]
 draft: false
-tags: [misc.]
 math: false
 comment: true
 toc: false

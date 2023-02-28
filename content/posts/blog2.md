@@ -5,7 +5,6 @@ slug: ""
 description: ""
 keywords: [philosophy,science,writing]
 draft: false
-tags: [misc.]
 math: false
 comment: true
 toc: false
