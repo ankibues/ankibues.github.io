@@ -1,4 +1,4 @@
-baseurl = "https://bhandlab.github.io"
+baseurl = "https://ankibues.github.io"
 title = "BhandLab"
 theme = "hugo-coder"
 languagecode = "en"
