@@ -1,10 +1,10 @@
 baseurl = "https://ankibues.github.io"
-title = "BhandLab"
+title = "Ankit Bhandari"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
 
-paginate = 20
+paginate = 5
 
 pygmentsstyle = "b2"
 pygmentscodefences = true
@@ -14,15 +14,15 @@ pygmentscodefencesguesssyntax = true
   author = "Ankit Bhandari"
   description = "Quality Assurance Engineer and Compliance Project Manager"
   keywords = "blog,software,science,writer, art"
-  info = "Software Development and Quality Assurance/ Compliance Project Management/ Scientific Computing/ Technical and Creative Writing"
+  info = "Software Development | Quality Assurance | Compliance Project Management | Scientific Computing | Technical and Creative Writing"
   avatarurl = "images/photo.jpeg"
   favicon_32 = "images/bhandlab.png"
   favicon_16 = "images/bhandlab.png"
-  footerContent = "I don't know anything, but I do know that everything is interesting if you go into it deeply enough- Richard Feynman"
+  footerContent = "I don't know anything, but I do know that everything is interesting if you go into it deeply enough -Richard Feynman"
   dateFormat ="January 2, 2006"
   hideFooter = false
   hideCredits = false
-  since = 2021
+  since = 2023
 
   rtl = false
   enableTwemoji = true
@@ -32,6 +32,12 @@ pygmentscodefencesguesssyntax = true
   customCSS = []
   customSCSS = []
   customJS = []
+
+# Markup settings
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true  # Allows raw HTML in Markdown content
 
 # utterances comment
 [params.utterances]
@@ -56,7 +62,7 @@ pygmentscodefencesguesssyntax = true
 
 [[params.social]]
   name = "Twitter"
-  icon = "fa fa-twitter fa-2x"
+  icon = "fa fa-twitter fa-2x"  
   weight = 2
   url = "https://twitter.com/ankibues/"
 
@@ -92,18 +98,8 @@ url = "https://medium.com/@bhand-ab/"
             name = "Publications"
             weight = 3
             url = "publications/"
-            
-            [[languages.en.menu.main]]
-            name = "Resume/C.V."
-            weight = 4
-            url = "media/CV.pdf"
-
-            [[languages.en.menu.main]]
-            name = "Posts"
-            weight = 5
-            url = "posts/"
 
             [[languages.en.menu.main]]
             name = "Contact me"
-            weight = 6
+            weight = 4
             url = "contact/"

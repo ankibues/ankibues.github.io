@@ -4,6 +4,15 @@ date: 2022-12-28T11:22:43+05:30
 draft: false
 description: Conference and Journal articles
 ---
+## Medium Stories:
+* [What Happens When You Think In Terms of Entropy? A Perspective On Entropy And Life](https://medium.com/be-open/what-happens-when-you-think-in-terms-of-entropy-937bdce53957 )
+
+* [How Rocks Flow Beneath Your Feet? Using Computer Simulation to see what happens 30 kilometers below your feet](https://medium.com/bhandlab/earthquakes-and-the-flow-of-rocks-5817c21adb4c)
+* [What’s Your Emotional Granularity? Understanding your emotions and well-being](https://medium.com/psych-times/whats-your-emotional-granularity-89d909ef0813)
+
+* [You Are The Universe. A Perspective Shift](https://medium.com/know-thyself-heal-thyself/you-are-the-universe-965185e9e7fd)
+
+* [5 Steps To Understand The World Using Mental Models. All Models Are Wrong, But Some Are Useful.](https://medium.com/writers-blokke/5-steps-to-understand-the-world-using-mental-models-54e9d0439917)
 
 ## Journal articles:
 
