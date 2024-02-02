@@ -3,13 +3,13 @@ title = "Contact"
 slug = "contact"
 +++
 
-Feel free to follow me on  [Twitter](https://twitter.com/ankibues/)
+Follow him on  [Twitter](https://twitter.com/ankibues/)
 
-check out my writing on  [Medium](https://medium.com/@bhand-ab)
+Check out his writing on [Medium](https://medium.com/@bhand-ab)
 
-follow my projects or colloborate with me on [GitHub](https://github.com/ankibues), or 
+Follow his projects or collaborate on [GitHub](https://github.com/ankibues), or 
 
-connect via [email](ankbhand2@gmail.com).
+Connect via [email](ankbhand2@gmail.com).
 
 Cheers!
 
