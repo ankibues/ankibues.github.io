@@ -100,6 +100,6 @@ url = "https://medium.com/@bhand-ab/"
             url = "publications/"
 
             [[languages.en.menu.main]]
-            name = "Contact me"
+            name = "Contact"
             weight = 4
             url = "contact/"
