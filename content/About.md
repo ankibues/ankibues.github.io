@@ -5,11 +5,15 @@ draft: false
 ---
 
 
-With over 4 years experience in scientific computing followed by 2 years in Tech industry, Ankit builds software at [BhandLab](https://github.com/BhandLab) and provide consultancy to businesses for relevant technical problems. 
+With over 4 years of experience in academic research, teaching and scientific computing followed by 2 years in educational technology industry, Ankit builds educational software at [BhandLab](https://github.com/BhandLab) and provides consultancy to businesses for relevant technical problems. 
 
-He comes from Lucknow, India, where he spent most of his childhood. After completing his undergraduate degree in Engineering from [Indian Institute of Technology Roorkee](https://www.iitr.ac.in/), he moved to Canada in 2016 for his PhD program at [Western University](https://www.uwo.ca/). Following his graduation, he switched to tech industry to solve real-world problems using software solutions.
+With background in both academic teaching and employee training, he is passionate about creating novel learning experiences using technology.
 
-In his free time, Ankit likes dabbling with guitar, writing poetry, philosophical prose, short stories, and sketching manga drawings.
+He comes from Lucknow, India, where he spent most of his childhood. After completing his undergraduate degree in Engineering from [Indian Institute of Technology Roorkee](https://www.iitr.ac.in/), he moved to Canada in 2016 for his PhD program at [Western University](https://www.uwo.ca/). 
+
+Following his graduation, he switched to tech industry to solve real-world problems using software solutions.
+
+In his free time, Ankit tutors grade-school students, writes poetry, philosophical prose and short stories, and loves to sketch manga drawings.
         
         
 
