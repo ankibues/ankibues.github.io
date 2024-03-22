@@ -8,14 +8,14 @@ draft: false
 ## Revealer:
 
 
-[Revealer](https;//play-revealer.com) is an educational game that provides user with a hidden picture associated with a weekly theme, and user has to guess what the picture is! Inspired by the Wordle-like games which he enjoys playing with her partner, Ankit designed and developed this web-game, that utilizes MERN (MongoDB, Express, React and NodeJs) stack hosted on AWS servers to provide simple yet elegant User Interface. 
+[Revealer](https://play-revealer.com) is an educational game that provides user with a hidden picture associated with a weekly theme, and user has to guess what the picture is! Inspired by the Wordle-like games which he enjoys playing with her partner, Ankit designed and developed this web-game, that utilizes MERN (MongoDB, Express, React and NodeJs) stack hosted on AWS servers to provide simple yet elegant User Interface. 
 
 \
 \
 ![](/media/revealerLogo.png)
 \
 
-Check out the game [here](https;//play-revealer.com)!
+Check out the game [here](https://play-revealer.com)!
 
 
 
