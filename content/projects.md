@@ -13,7 +13,7 @@ draft: false
 \
 \
 ![](/media/revealerLogo.png)
-\
+
 
 Check out the game [here](https://play-revealer.com)!
 
