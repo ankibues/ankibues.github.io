@@ -5,7 +5,26 @@ draft: false
 ---
 # **Software Development**
 
-Ankit is currently working on a few software products that are scheduled to be launched in 2024. Follow [BhandLab](https://medium.com/bhandlab) for upcoming updates! 
+## Revealer:
+
+
+[Revealer](https;//play-revealer.com) is an educational game that provides user with a hidden picture associated with a weekly theme, and user has to guess what the picture is! Inspired by the Wordle-like games which he enjoys playing with her partner, Ankit designed and developed this web-game, that utilizes MERN (MongoDB, Express, React and NodeJs) stack hosted on AWS servers to provide simple yet elegant User Interface. 
+
+\
+\
+![](/media/revealerLogo.png)
+\
+
+Check out the game [here](https;//play-revealer.com)!
+
+
+
+## Shopify App Development: 
+
+Ankit is consulting a start-up to build custom Shopify application for their online store. 
+
+
+For upcoming software product updates in 2024, follow [BhandLab](https://medium.com/bhandlab). 
 
 
 # **Compliance**
@@ -80,7 +99,7 @@ Flow variation around a rheological heterogeneity (also known as a cutting eleme
 |![](/media/Media1.gif)|![](/media/Media2.gif)|![](/media/Media3.gif)|
 
 \
-For more info, refer to my thesis [here](https://ir.lib.uwo.ca/etd/7763/)
+For more info, refer to this thesis [here](https://ir.lib.uwo.ca/etd/7763/)
 \
 Code: [https://github.com/ankibues/MOPLA_Application_Matlab/tree/master/Flanking%20Structure%20Investigation/Matlab%20files](https://github.com/ankibues/MOPLA_Application_Matlab/tree/master/Flanking%20Structure%20Investigation/Matlab%20files)
 
