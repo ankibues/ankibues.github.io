@@ -9,9 +9,11 @@ draft: false
 
 [QuestEd](https://github.com/quest-Ed/QuestEd) is an open-source educational technology platform enabling instructors to craft story-driven, gamified learning experiences with Artificial Intelligence (AI). 
 
-Instructors can create interactive gamified learning experience by adding keywords or even a lesson plan (in the form of pdf, or document file). Using generative AI, QuestEd develops a story-based learning experience, that can be accessed by a learner.
+Instructors can create interactive gamified learning experience by adding keywords or even a lesson plan (in the form of pdf, or document file). Using generative AI, QuestEd develops a story-based learning experience called Quest, that can be accessed by a learner.
 
-The learning experience, also called Quest, is a story-based gamified learning experience provided by Questy, an AI learning assistant that guides the learner through their learning quests, and help them solve problems and challenges as they appear in the learning experience.
+The learning experience is provided by Questy, an AI learning assistant that guides the learner through their learning quests, and help them solve problems and challenges as they appear in the learning experience.
+
+The project uses MERN (MongoDB, express, React and NodeJs) stack along with Google's Gemini AI models. Future work would incorporate other LLMs(Large Language Models) as well.
 
 \
 \
