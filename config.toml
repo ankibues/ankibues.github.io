@@ -10,6 +10,10 @@ pygmentsstyle = "b2"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
+[frontmatter]
+  omit_date = true
+
+
 [params]
   author = "Ankit Bhandari"
   description = "Quality Assurance Engineer and Compliance Project Manager"
