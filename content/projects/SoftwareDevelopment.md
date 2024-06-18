@@ -53,3 +53,7 @@ Ankit consults businesses to build custom Shopify application for their online s
 
 For upcoming software product updates in 2024, follow [BhandLab](https://medium.com/bhandlab). 
 
+
+## Scientific Computing Software:
+
+For his scientific research in computational geosciences, Ankit contributed to the development of MOPLA (Multi Order Power Law Approach), a scientific computing software application for simulating the heterogeneous rock deformation in Earth's lithosphere. More information about the specific problem and relevant codebase can be found [here](/projects/ScientificResearch).
