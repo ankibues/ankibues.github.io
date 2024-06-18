@@ -64,7 +64,7 @@ Below is an example of different flanking structures formed in rocks, simulated 
 |:-:|:-:|:-:|
 |![](/media/Media1.gif)|![](/media/Media2.gif)|![](/media/Media3.gif)|
 
-\
+
 
 
 
