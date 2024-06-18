@@ -56,4 +56,18 @@ For upcoming software product updates in 2024, follow [BhandLab](https://medium.
 
 ## Scientific Computing Software:
 
-For his scientific research in computational geosciences, Ankit contributed to the development of MOPLA (Multi Order Power Law Approach), a scientific computing software application for simulating the heterogeneous rock deformation in Earth's lithosphere. More information about the specific problem and relevant codebase can be found [here](/projects/ScientificResearch).
+For his scientific research in computational geosciences, Ankit contributed to the development of MOPLA (Multi Order Power Law Approach), a scientific computing software application for simulating the heterogeneous rock deformation in Earth's lithosphere. 
+
+Below is an example of different flanking structures formed in rocks, simulated using micromechanics based models: 
+
+|Flanking Structure 1 |Flanking Structure 2 | Flanking Structure 3| 
+|:-:|:-:|:-:|
+|![](/media/Media1.gif)|![](/media/Media2.gif)|![](/media/Media3.gif)|
+
+\
+
+
+
+
+
+More information about the specific problem and relevant codebase can be found [here](/projects/ScientificResearch).
