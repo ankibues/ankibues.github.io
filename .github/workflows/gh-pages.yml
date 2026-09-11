@@ -18,7 +18,10 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: 'latest'
+          # The pinned hugo-coder theme still uses .Site.IsServer, which was
+          # removed in newer Hugo releases. Keep this reproducible until the
+          # theme is upgraded.
+          hugo-version: '0.121.2'
           extended: true
 
       - name: Build
