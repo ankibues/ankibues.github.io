@@ -1,9 +1,8 @@
 ---
 title: "About"
-date: 2024-1-16T11:26:13+05:30
+date: 2024-01-16T11:26:13+05:30
 draft: false
 ---
-
 
 With over 4 years of experience in research and teaching followed by 2 years in educational technology industry, Ankit builds educational technology at [BhandLab](https://medium.com/bhandlab). In addition, he provides tech consultancy to businesses for relevant technical problems. 
 
