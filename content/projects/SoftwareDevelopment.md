@@ -1,5 +1,6 @@
 ---
 title: "Software Development"
+date: 2024-05-09
 url: "/projects/SoftwareDevelopment/"
 ---
 

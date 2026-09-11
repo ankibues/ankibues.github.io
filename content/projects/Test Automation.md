@@ -1,5 +1,6 @@
 ---
 title: "Test Automation"
+date: 2024-05-09
 url: "/projects/Test Automation/"
 ---
 # **Test Automation**
@@ -8,4 +9,3 @@ Ankit worked as a Quality Assurance Engineer at YuJa. With manual testing of sof
 \
 \
 This project utilized [Selenium](https://www.selenium.dev/) based [TestNg](https://testng.org/doc/) framework in Java for automating the test scenarios such as uploading video/audio files, perrform certain types of actions on media files, creating different types of users, etc. 
-

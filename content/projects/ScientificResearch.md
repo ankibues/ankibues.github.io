@@ -1,5 +1,6 @@
 ---
 title: "Scientific Research"
+date: 2024-05-09
 url: "/projects/ScientificResearch/"
 ---
 # **Scientific Research Projects** 
@@ -50,5 +51,4 @@ Flow variation around a rheological heterogeneity (also known as a cutting eleme
 For more info, refer to this thesis [here](https://ir.lib.uwo.ca/etd/7763/)
 \
 Code: [https://github.com/ankibues/MOPLA_Application_Matlab/tree/master/Flanking%20Structure%20Investigation/Matlab%20files](https://github.com/ankibues/MOPLA_Application_Matlab/tree/master/Flanking%20Structure%20Investigation/Matlab%20files)
-
 

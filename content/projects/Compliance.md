@@ -1,5 +1,6 @@
 ---
 title: "Compliance"
+date: 2024-05-09
 url: "/projects/Compliance/"
 ---
 # **Compliance**
@@ -19,4 +20,3 @@ And maintainting documentations such as:
 * [VPAT](https://www.itic.org/policy/accessibility/vpat) for accessibility reports
 
 As part of his Compliance efforts, Ankit has provided security, product testing and other compliance training (e.g. Incident response) to engineering, customer success and customer support teams.  
-
